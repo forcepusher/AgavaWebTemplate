@@ -1,0 +1,16 @@
+{
+  "name": "com.agava.webtemplate",
+  "version": "0.0.1",
+  "displayName": "Agava Web Template",
+  "type": "library",
+  "unity": "2020.3",
+  "description": "WebGL template with common SDK integrations used in AGAVA LLC.",
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "WebGLTemplates",
+      "description": "Template folder to drag and drop into the Assets folder.",
+      "path": "Samples~/WebGLTemplates"
+    }
+  ]
+}
